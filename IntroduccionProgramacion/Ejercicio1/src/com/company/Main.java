@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
        //Parte uno
-        var resultado =  suma(10, 15,20);
+        float resultado =  suma(10, 15,20);
         System.out.print("Resultado de la suma: ");
         System.out.println(resultado);
         //Parte dos
