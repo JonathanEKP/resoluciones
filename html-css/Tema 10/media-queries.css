@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+
+p{
+    color: black;
+}
+
+@media   (min-width: 576px) {
+    h1{
+        color: green;
+    }
+
+}
+
+@media (min-width: 995px){
+    h1{
+        color: blue;
+    }
+}
+
+@media (min-height: 300px){
+    p{
+        color: cyan;
+    }
+}
